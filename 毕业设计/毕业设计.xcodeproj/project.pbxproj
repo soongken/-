@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3FD4C1B11CA0391F005C9ADF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FD4C1B01CA0391F005C9ADF /* AppDelegate.m */; settings = {ASSET_TAGS = (); }; };
+		3FD4C1BE1CA03932005C9ADF /* ChatVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FD4C1B31CA03932005C9ADF /* ChatVC.m */; settings = {ASSET_TAGS = (); }; };
+		3FD4C1BF1CA03932005C9ADF /* DiscussVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FD4C1B51CA03932005C9ADF /* DiscussVC.m */; settings = {ASSET_TAGS = (); }; };
+		3FD4C1C01CA03932005C9ADF /* HomeWorkVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FD4C1B71CA03932005C9ADF /* HomeWorkVC.m */; settings = {ASSET_TAGS = (); }; };
+		3FD4C1C11CA03932005C9ADF /* ScanVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FD4C1B91CA03932005C9ADF /* ScanVC.m */; settings = {ASSET_TAGS = (); }; };
+		3FD4C1C21CA03932005C9ADF /* SignVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FD4C1BB1CA03932005C9ADF /* SignVC.m */; settings = {ASSET_TAGS = (); }; };
+		3FD4C1C31CA03932005C9ADF /* TabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FD4C1BD1CA03932005C9ADF /* TabViewController.m */; settings = {ASSET_TAGS = (); }; };
 		3FDD62411CA0306A0022ABEA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD62401CA0306A0022ABEA /* main.m */; };
-		3FDD62441CA0306A0022ABEA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD62431CA0306A0022ABEA /* AppDelegate.m */; };
 		3FDD624A1CA0306A0022ABEA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FDD62481CA0306A0022ABEA /* Main.storyboard */; };
 		3FDD624C1CA0306A0022ABEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FDD624B1CA0306A0022ABEA /* Assets.xcassets */; };
 		3FDD624F1CA0306A0022ABEA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FDD624D1CA0306A0022ABEA /* LaunchScreen.storyboard */; };
 		3FDD625A1CA0306A0022ABEA /* ____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD62591CA0306A0022ABEA /* ____Tests.m */; };
 		3FDD62651CA0306A0022ABEA /* ____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD62641CA0306A0022ABEA /* ____UITests.m */; };
-		3FDD62741CA030AE0022ABEA /* TabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD62731CA030AE0022ABEA /* TabViewController.m */; settings = {ASSET_TAGS = (); }; };
-		3FDD62771CA033000022ABEA /* DiscussVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD62761CA033000022ABEA /* DiscussVC.m */; settings = {ASSET_TAGS = (); }; };
-		3FDD627A1CA0331F0022ABEA /* SignVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD62791CA0331F0022ABEA /* SignVC.m */; settings = {ASSET_TAGS = (); }; };
-		3FDD627D1CA0332E0022ABEA /* ScanVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD627C1CA0332E0022ABEA /* ScanVC.m */; settings = {ASSET_TAGS = (); }; };
-		3FDD62801CA0334C0022ABEA /* HomeWorkVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD627F1CA0334C0022ABEA /* HomeWorkVC.m */; settings = {ASSET_TAGS = (); }; };
-		3FDD62831CA033770022ABEA /* ChatVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD62821CA033770022ABEA /* ChatVC.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,10 +40,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3FD4C1AF1CA0391F005C9ADF /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3FD4C1B01CA0391F005C9ADF /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3FD4C1B21CA03932005C9ADF /* ChatVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChatVC.h; sourceTree = "<group>"; };
+		3FD4C1B31CA03932005C9ADF /* ChatVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChatVC.m; sourceTree = "<group>"; };
+		3FD4C1B41CA03932005C9ADF /* DiscussVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DiscussVC.h; sourceTree = "<group>"; };
+		3FD4C1B51CA03932005C9ADF /* DiscussVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DiscussVC.m; sourceTree = "<group>"; };
+		3FD4C1B61CA03932005C9ADF /* HomeWorkVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeWorkVC.h; sourceTree = "<group>"; };
+		3FD4C1B71CA03932005C9ADF /* HomeWorkVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeWorkVC.m; sourceTree = "<group>"; };
+		3FD4C1B81CA03932005C9ADF /* ScanVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScanVC.h; sourceTree = "<group>"; };
+		3FD4C1B91CA03932005C9ADF /* ScanVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScanVC.m; sourceTree = "<group>"; };
+		3FD4C1BA1CA03932005C9ADF /* SignVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SignVC.h; sourceTree = "<group>"; };
+		3FD4C1BB1CA03932005C9ADF /* SignVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SignVC.m; sourceTree = "<group>"; };
+		3FD4C1BC1CA03932005C9ADF /* TabViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabViewController.h; sourceTree = "<group>"; };
+		3FD4C1BD1CA03932005C9ADF /* TabViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabViewController.m; sourceTree = "<group>"; };
 		3FDD623C1CA0306A0022ABEA /* 毕业设计.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "毕业设计.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FDD62401CA0306A0022ABEA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3FDD62421CA0306A0022ABEA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ../AppDelegate.h; sourceTree = "<group>"; };
-		3FDD62431CA0306A0022ABEA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = ../AppDelegate.m; sourceTree = "<group>"; };
 		3FDD62491CA0306A0022ABEA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3FDD624B1CA0306A0022ABEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FDD624E1CA0306A0022ABEA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -54,18 +66,6 @@
 		3FDD62601CA0306A0022ABEA /* 毕业设计UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "毕业设计UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FDD62641CA0306A0022ABEA /* ____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "____UITests.m"; sourceTree = "<group>"; };
 		3FDD62661CA0306A0022ABEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3FDD62721CA030AE0022ABEA /* TabViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TabViewController.h; path = ../TabViewController.h; sourceTree = "<group>"; };
-		3FDD62731CA030AE0022ABEA /* TabViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TabViewController.m; path = ../TabViewController.m; sourceTree = "<group>"; };
-		3FDD62751CA033000022ABEA /* DiscussVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DiscussVC.h; path = ../DiscussVC.h; sourceTree = "<group>"; };
-		3FDD62761CA033000022ABEA /* DiscussVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DiscussVC.m; path = ../DiscussVC.m; sourceTree = "<group>"; };
-		3FDD62781CA0331F0022ABEA /* SignVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SignVC.h; path = ../SignVC.h; sourceTree = "<group>"; };
-		3FDD62791CA0331F0022ABEA /* SignVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SignVC.m; path = ../SignVC.m; sourceTree = "<group>"; };
-		3FDD627B1CA0332E0022ABEA /* ScanVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScanVC.h; path = ../ScanVC.h; sourceTree = "<group>"; };
-		3FDD627C1CA0332E0022ABEA /* ScanVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ScanVC.m; path = ../ScanVC.m; sourceTree = "<group>"; };
-		3FDD627E1CA0334C0022ABEA /* HomeWorkVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HomeWorkVC.h; path = ../HomeWorkVC.h; sourceTree = "<group>"; };
-		3FDD627F1CA0334C0022ABEA /* HomeWorkVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HomeWorkVC.m; path = ../HomeWorkVC.m; sourceTree = "<group>"; };
-		3FDD62811CA033770022ABEA /* ChatVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChatVC.h; path = ../ChatVC.h; sourceTree = "<group>"; };
-		3FDD62821CA033770022ABEA /* ChatVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChatVC.m; path = ../ChatVC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -172,18 +172,18 @@
 		3FDD62861CA033960022ABEA /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				3FDD62721CA030AE0022ABEA /* TabViewController.h */,
-				3FDD62731CA030AE0022ABEA /* TabViewController.m */,
-				3FDD62751CA033000022ABEA /* DiscussVC.h */,
-				3FDD62761CA033000022ABEA /* DiscussVC.m */,
-				3FDD62781CA0331F0022ABEA /* SignVC.h */,
-				3FDD62791CA0331F0022ABEA /* SignVC.m */,
-				3FDD627B1CA0332E0022ABEA /* ScanVC.h */,
-				3FDD627C1CA0332E0022ABEA /* ScanVC.m */,
-				3FDD627E1CA0334C0022ABEA /* HomeWorkVC.h */,
-				3FDD627F1CA0334C0022ABEA /* HomeWorkVC.m */,
-				3FDD62811CA033770022ABEA /* ChatVC.h */,
-				3FDD62821CA033770022ABEA /* ChatVC.m */,
+				3FD4C1B21CA03932005C9ADF /* ChatVC.h */,
+				3FD4C1B31CA03932005C9ADF /* ChatVC.m */,
+				3FD4C1B41CA03932005C9ADF /* DiscussVC.h */,
+				3FD4C1B51CA03932005C9ADF /* DiscussVC.m */,
+				3FD4C1B61CA03932005C9ADF /* HomeWorkVC.h */,
+				3FD4C1B71CA03932005C9ADF /* HomeWorkVC.m */,
+				3FD4C1B81CA03932005C9ADF /* ScanVC.h */,
+				3FD4C1B91CA03932005C9ADF /* ScanVC.m */,
+				3FD4C1BA1CA03932005C9ADF /* SignVC.h */,
+				3FD4C1BB1CA03932005C9ADF /* SignVC.m */,
+				3FD4C1BC1CA03932005C9ADF /* TabViewController.h */,
+				3FD4C1BD1CA03932005C9ADF /* TabViewController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -191,8 +191,8 @@
 		3FDD62871CA033BA0022ABEA /* APP */ = {
 			isa = PBXGroup;
 			children = (
-				3FDD62421CA0306A0022ABEA /* AppDelegate.h */,
-				3FDD62431CA0306A0022ABEA /* AppDelegate.m */,
+				3FD4C1AF1CA0391F005C9ADF /* AppDelegate.h */,
+				3FD4C1B01CA0391F005C9ADF /* AppDelegate.m */,
 			);
 			path = APP;
 			sourceTree = "<group>";
@@ -327,13 +327,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3FDD62741CA030AE0022ABEA /* TabViewController.m in Sources */,
-				3FDD62771CA033000022ABEA /* DiscussVC.m in Sources */,
-				3FDD62441CA0306A0022ABEA /* AppDelegate.m in Sources */,
-				3FDD62801CA0334C0022ABEA /* HomeWorkVC.m in Sources */,
-				3FDD62831CA033770022ABEA /* ChatVC.m in Sources */,
-				3FDD627D1CA0332E0022ABEA /* ScanVC.m in Sources */,
-				3FDD627A1CA0331F0022ABEA /* SignVC.m in Sources */,
+				3FD4C1BE1CA03932005C9ADF /* ChatVC.m in Sources */,
+				3FD4C1C01CA03932005C9ADF /* HomeWorkVC.m in Sources */,
+				3FD4C1BF1CA03932005C9ADF /* DiscussVC.m in Sources */,
+				3FD4C1C21CA03932005C9ADF /* SignVC.m in Sources */,
+				3FD4C1C31CA03932005C9ADF /* TabViewController.m in Sources */,
+				3FD4C1C11CA03932005C9ADF /* ScanVC.m in Sources */,
+				3FD4C1B11CA0391F005C9ADF /* AppDelegate.m in Sources */,
 				3FDD62411CA0306A0022ABEA /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -560,6 +560,7 @@
 				3FDD626B1CA0306A0022ABEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3FDD626C1CA0306A0022ABEA /* Build configuration list for PBXNativeTarget "毕业设计Tests" */ = {
 			isa = XCConfigurationList;
@@ -568,6 +569,7 @@
 				3FDD626E1CA0306A0022ABEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3FDD626F1CA0306A0022ABEA /* Build configuration list for PBXNativeTarget "毕业设计UITests" */ = {
 			isa = XCConfigurationList;
@@ -576,6 +578,7 @@
 				3FDD62711CA0306A0022ABEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
