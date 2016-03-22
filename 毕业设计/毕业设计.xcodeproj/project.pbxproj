@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F73F6231CA1337A00A800AB /* HGDQQRCodeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F73F6221CA1337A00A800AB /* HGDQQRCodeView.m */; settings = {ASSET_TAGS = (); }; };
+		3F73F6261CA1342300A800AB /* MakeQRView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F73F6251CA1342300A800AB /* MakeQRView.m */; settings = {ASSET_TAGS = (); }; };
+		3F73F6281CA1357B00A800AB /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F73F6271CA1357B00A800AB /* 3.jpg */; settings = {ASSET_TAGS = (); }; };
 		3FD4C1B11CA0391F005C9ADF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FD4C1B01CA0391F005C9ADF /* AppDelegate.m */; settings = {ASSET_TAGS = (); }; };
 		3FD4C1BE1CA03932005C9ADF /* ChatVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FD4C1B31CA03932005C9ADF /* ChatVC.m */; settings = {ASSET_TAGS = (); }; };
 		3FD4C1BF1CA03932005C9ADF /* DiscussVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FD4C1B51CA03932005C9ADF /* DiscussVC.m */; settings = {ASSET_TAGS = (); }; };
@@ -40,6 +43,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F73F6211CA1337A00A800AB /* HGDQQRCodeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HGDQQRCodeView.h; sourceTree = "<group>"; };
+		3F73F6221CA1337A00A800AB /* HGDQQRCodeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HGDQQRCodeView.m; sourceTree = "<group>"; };
+		3F73F6241CA1342300A800AB /* MakeQRView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MakeQRView.h; sourceTree = "<group>"; };
+		3F73F6251CA1342300A800AB /* MakeQRView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MakeQRView.m; sourceTree = "<group>"; };
+		3F73F6271CA1357B00A800AB /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
 		3FD4C1AF1CA0391F005C9ADF /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3FD4C1B01CA0391F005C9ADF /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		3FD4C1B21CA03932005C9ADF /* ChatVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChatVC.h; sourceTree = "<group>"; };
@@ -165,6 +173,11 @@
 		3FDD62851CA033920022ABEA /* View */ = {
 			isa = PBXGroup;
 			children = (
+				3F73F6211CA1337A00A800AB /* HGDQQRCodeView.h */,
+				3F73F6221CA1337A00A800AB /* HGDQQRCodeView.m */,
+				3F73F6241CA1342300A800AB /* MakeQRView.h */,
+				3F73F6251CA1342300A800AB /* MakeQRView.m */,
+				3F73F6271CA1357B00A800AB /* 3.jpg */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -303,6 +316,7 @@
 				3FDD624F1CA0306A0022ABEA /* LaunchScreen.storyboard in Resources */,
 				3FDD624C1CA0306A0022ABEA /* Assets.xcassets in Resources */,
 				3FDD624A1CA0306A0022ABEA /* Main.storyboard in Resources */,
+				3F73F6281CA1357B00A800AB /* 3.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -334,6 +348,8 @@
 				3FD4C1C31CA03932005C9ADF /* TabViewController.m in Sources */,
 				3FD4C1C11CA03932005C9ADF /* ScanVC.m in Sources */,
 				3FD4C1B11CA0391F005C9ADF /* AppDelegate.m in Sources */,
+				3F73F6261CA1342300A800AB /* MakeQRView.m in Sources */,
+				3F73F6231CA1337A00A800AB /* HGDQQRCodeView.m in Sources */,
 				3FDD62411CA0306A0022ABEA /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

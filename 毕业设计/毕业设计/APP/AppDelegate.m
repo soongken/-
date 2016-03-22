@@ -17,6 +17,10 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    _autorX = 375 / [UIScreen mainScreen].bounds.size.width;
+    _autorY = 667 / [UIScreen mainScreen].bounds.size.height;
+    
     return YES;
 }
 
