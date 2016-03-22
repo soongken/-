@@ -16,7 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    
+    //导航名
+    self.title = @"作业";
 }
 
 - (void)didReceiveMemoryWarning {
