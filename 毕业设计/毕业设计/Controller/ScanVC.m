@@ -7,6 +7,7 @@
 //
 
 #import "ScanVC.h"
+#import "MakeQRView.h"
 
 @interface ScanVC ()
 
@@ -16,9 +17,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-  
-    //导航名
-    self.title = @"扫描";
+    // Do any additional setup after loading the view.
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
